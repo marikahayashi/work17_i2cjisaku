@@ -1,0 +1,23 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"work17_i2cjisaku" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\MPL115A2.c" 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\MPL115A2.h" 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\resetprg.c" 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\uart1.c" 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\work17_i2cjisaku.c" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\MPL115A2.c" 0 0 658 520 0 2 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\MPL115A2.h" 104 104 486 325 0 3 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\resetprg.c" 0 0 512 273 0 1 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\uart1.c" 104 104 486 325 0 4 
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\work17_i2cjisaku.c" -8 -31 808 439 1 0 
+[LOADED_PROJECTS]
+"work17_i2cjisaku" 
+[END]

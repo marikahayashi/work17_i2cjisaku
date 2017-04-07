@@ -1,0 +1,7 @@
+-lang=c
+-c
+-finfo
+-dir "C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\Debug"
+-silent
+-R8C
+"C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\my_string.c"

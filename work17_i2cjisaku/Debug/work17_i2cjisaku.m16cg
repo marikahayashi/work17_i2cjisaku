@@ -1,0 +1,4 @@
+-R8C
+-nofloat
+-output="C:\WorkSpace\work17_i2cjisaku\work17_i2cjisaku\Debug\work17_i2cjisaku.lib"
+-O3
